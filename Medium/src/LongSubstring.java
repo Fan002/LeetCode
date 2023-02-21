@@ -3,7 +3,7 @@ import java.util.Set;
 
 public class LongSubstring {
     public static void main(String[] args) {
-        String s = "abcabcbb";
+        String s = "abcabcb";
         System.out.println(lengthOfLongestSubstring(s));
 
     }
